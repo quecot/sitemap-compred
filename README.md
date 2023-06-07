@@ -1,5 +1,5 @@
 # Proposta per a un sitemap interactiu per CompREd UAB
-Un mapa de lloc interactiu és una representació visual de l'estructura d'un lloc web, dissenyat per oferir als usuaris i als motors de cerca una guia de navegació intuïtiva. Permet una interacció directa, habilitant als usuaris per fer clic a qualsevol pàgina llistada, convertint-se en una eina eficient per millorar la usabilitat i la descobrabilitat.
+Un mapa de lloc interactiu és una representació visual de l'estructura d'un lloc web, dissenyat per oferir als usuaris i als motors de cerca una guia de navegació intuïtiva. Permet una interacció directa, habilitant als usuaris per fer clic a qualsevol pàgina llistada, convertint-se en una eina eficient per millorar la usabilitat del lloc web i ajudar als usuaris descobrir-la.
 
 <br />
 
